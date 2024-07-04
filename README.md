@@ -22,8 +22,8 @@ This repository contains code for training a Support Vector Machine (SVM) model 
 - pandas
 ## Examples
 
-### Original Image
-![Original Image](URL_input_page.png)
+### URL input page
+![Original Image](main/input.png)
 
-### Encoded Image
-![Encoded Image](Predicted_output.png)
+### Predicted Output
+![Encoded Image](main.output.png)
