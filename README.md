@@ -23,7 +23,7 @@ This repository contains code for training a Support Vector Machine (SVM) model 
 ## Examples
 
 ### URL input page
-![Original Image](main/input.png)
+![Original Image](input.png)
 
 ### Predicted Output
-![Encoded Image](main.output.png)
+![Encoded Image](output.png)
